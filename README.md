@@ -1,4 +1,4 @@
-![S__21774341](https://github.com/LittleBlack0001/Discord-/assets/87685533/e2edf320-2bd9-4f20-92e0-f301bdf3bbed)# Discord-
+# Discord-
 一個簡易的DC爬動畫瘋der機器人 簡易又容易上手~~
 本機器人無任何營利之行為--是學術行為EOO~~~
 本機器人所參考的Github:https://github.com/teddy8997/Baha-animation-notify  #順便支持那位作者(??ww
