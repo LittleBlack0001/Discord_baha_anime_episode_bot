@@ -1,4 +1,4 @@
-# Discord-
+![S__21774341](https://github.com/LittleBlack0001/Discord-/assets/87685533/e2edf320-2bd9-4f20-92e0-f301bdf3bbed)# Discord-
 一個簡易的DC爬動畫瘋der機器人 簡易又容易上手~~
 本機器人無任何營利之行為--是學術行為EOO~~~
 本機器人所參考的Github:https://github.com/teddy8997/Baha-animation-notify  #順便支持那位作者(??ww
@@ -16,3 +16,4 @@
 總之謝謝他幫我解決了許多bug 希望這隻bot能帶給大家便利(?
 記得給我星星rrrrrrrr!!!!!!!
 ==============================================================================================
+成品:希望大家會喜歡qq==~~爬取新番owo~歐給 就不打擾大家用羅~這支bot如果可以24hr運行 那只要新番一發布 他就可以馬上接收 傳到頻道羅><![007](https://github.com/LittleBlack0001/Discord-/assets/87685533/72e0f1cd-090b-40eb-ba4a-a7285ef6b299)
