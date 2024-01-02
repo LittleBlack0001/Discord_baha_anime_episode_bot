@@ -51,3 +51,7 @@ II:程式碼註解由我親手撰寫 如果有錯誤請見諒
 </ul>
 多問我問題 好讓我多打Q&A??? 哀斗...程式碼註解打到睡著 所以裡面可能有點亂QQ 懶得改哈哈
 
+## 爬蟲結果展示
+![Screenshot 2024-01-02 202521](https://github.com/LittleBlack0001/Discord_baha_new_episode_bot/assets/87685533/365df7bc-0d14-445f-b56a-9308d2649648)
+
+
