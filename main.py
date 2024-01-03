@@ -24,7 +24,7 @@ def output_organized(s):
     output=''
     output += '>>> ## 名稱: __**' + s['title'] + '**__\n'
     output += "### 集數: " +s['episode'] + '\n'
-    output += "### 發布日期:2023/"  + str(s['date']) +'        '+"發布時間: "+ str(s['time']) + '\n'  #因年份無法爬取 故直接在這邊打 所以到達隔年的話 年份也必須手動從這邊修改
+    output += "### 發布日期:2024/"  + str(s['date']) +'        '+"發布時間: "+ str(s['time']) + '\n'  #因年份無法爬取 故直接在這邊打 所以到達隔年的話 年份也必須手動從這邊修改
     output += "### 網址: " +s['url'] + '\n'                      #62-64會將爬蟲的資訊放到discord指定channel上面 註解:此處格式已都整理好 圖片在github上面 要修改請自行修改
 
     return output
