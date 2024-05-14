@@ -6,6 +6,8 @@
 本機器人所參考的Github:https://github.com/teddy8997/Baha-animation-notify  
 
 ---
+##教學片
+https://www.youtube.com/watch?v=jUUZ737BGhU
 爬蟲網站: [巴哈姆特動畫瘋](https://ani.gamer.com.tw/)
 ## 使用步驟:                                    
   1.下載並且解壓縮檔案然後開啟setting.json
