@@ -45,7 +45,7 @@ async def on_ready():
     print('Logged in as {0.user}'.format(bot))
     channel = bot.get_channel(int(jdata['channel_id']))   # TRY  channel = client.get_channel(COPY DISCORD CHANNEL ID)
     if channel is not None:
-        await channel.send('### 機器人已啟動輸入:!help可察看所有指令')
+        await channel.send('### 機器人已啟動輸入: !help可察看所有指令')
         send_product_df.start(channel)
     else:
         print('找不到指定的頻道！')                         #此處是判斷執行中機器人是否已經到達指定的channel上面 有的話會跑出更新中...(在頻道上面) 若沒有的話會直接到(終端機)發送找不到頻道
