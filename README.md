@@ -4,6 +4,8 @@
 ## 須知
 本機器人僅用於學術用途 並無任何營利行為
 本機器人所參考的Github:https://github.com/teddy8997/Baha-animation-notify  
+## 教學片
+https://www.youtube.com/watch?v=jUUZ737BGhU
 
 ---
 爬蟲網站: [巴哈姆特動畫瘋](https://ani.gamer.com.tw/)
@@ -17,8 +19,6 @@
   ```
   pip install discord
   ``` 
-## 教學片
-https://www.youtube.com/watch?v=jUUZ737BGhU
 ## 最新內容
 # Version1.1(最新)
   1. 在舊版本中 爬蟲到新番時會直接傳送到Discord頻道上 因此導致了當過長時間沒運行(突然有一天想運行) 
