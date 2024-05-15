@@ -13,6 +13,8 @@ https://www.youtube.com/watch?v=jUUZ737BGhU
   1.下載並且解壓縮檔案然後開啟setting.json
 
   2.輸入你的channel id跟token(99%完成)
+
+  3.執行main.py程式碼
   
   補.使用前請先檢查是否所有模組是否都有下載到 大致上有:discord pandas bs4 BeautifulSoup json urllib requests 總之 如果有看到import旁有出現黃底曲線 八九成就是沒安裝到模組 
   範例:
