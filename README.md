@@ -37,8 +37,8 @@ https://www.youtube.com/watch?v=jUUZ737BGhU
         <li>1.爬取動畫瘋資訊</li>
         <li>2.把讀取到的title跟episode跟原本裡面的.csv檔案做比對</li>
         <li>3.如果比對內容有新內容 則把新的資訊放入grab.csv檔案</li>
-        <li>4.比對user_input_records.csv如果有與grab.csv相同名稱 且grav.csv有更新新內容 /li>
-        <li>5.把新資訊傳送到Discord頻道上面/li>
+        <li>4.比對user_input_records.csv如果有與grab.csv相同名稱 且grav.csv有更新新內容 </li>
+        <li>5.把新資訊傳送到Discord頻道上面</li>
         <li>5.重複執行</li>
       </ul>
 # Version1.0
