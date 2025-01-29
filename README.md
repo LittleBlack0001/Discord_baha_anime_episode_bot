@@ -6,7 +6,7 @@ python新手 對程式有稍微認知的朋朋 動漫迷(?
 ## 須知
 本機器人僅用於學術用途 並無任何營利行為
 本機器人所參考的Github:https://github.com/teddy8997/Baha-animation-notify  
-## 教學片
+## 教學片(更新中 無法觀看)
 https://www.youtube.com/watch?v=jUUZ737BGhU
 
 ---
