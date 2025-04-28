@@ -64,7 +64,7 @@ async def send_product_df(channel):
     output = []
     b = pd.read_csv("grab.csv", encoding='utf-8')   #utf-8 建立csv檔案並把爬蟲到的資料爬到.csv檔案裡
     for i in range(len(contents) - 5):
-        title = contents[i].find(class_="anime-name_for-marquee").text
+        title = contents[i].find(class_="anime-name").text
         url = contents[i].find(class_="anime-card-block").get("href")
         date = ''.join(i for i in dateinfo[i].text if i.isdigit() or i=='/')
         time = contents[i].find(class_="anime-hours-block").find(class_="anime-hours").text    
